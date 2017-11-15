@@ -1,0 +1,113 @@
+{
+    name: 'Starbust',
+    dob: '01-01-1990',
+    loves: ['carrot','papaya'],
+    weight: 600,
+    gender: 'm',
+    score: 63
+}
+{
+    name : 'Hothoof',
+    dob: '01-01-1990',
+    family : [{ brother : 'Starbust' }, { sister : 'Solnara' }],
+    loves : ['mango', 'grape'],
+    gender : 'm',
+    score : 77
+}
+{
+    name: 'Aurora',
+    dob: '01-01-1990',
+    loves: ['carrot', 'grape'],
+    weight: 450,
+    gender: 'f',
+    score: 43
+}
+{
+    name: 'Unicrom',
+    dob: '01-01-1990',
+    loves: ['energon', 'redbull'],
+    weight: 984,
+    gender: 'm',
+    score: 182
+}
+{
+    name: 'Roooooodles',
+    dob: '01-01-1990',
+    loves: ['apple'],
+    weight: 575,
+    gender: 'm',
+    score: 99
+}
+{
+    name: 'Solnara',
+    dob: '01-01-1990',
+    loves:['apple', 'carrot', 'chocolate'],
+    weight:550,
+    gender:'f',
+    score:80
+}
+{
+    name: 'Ayna',
+    dob: '01-01-1990',
+    loves: ['strawberry', 'lemon'],
+    weight: 733,
+    gender: 'f',
+    score: 40
+}
+
+{
+    name: 'Kenny',
+    dob: '01-01-1990',
+    loves: ['grape', 'lemon'],
+    weight: 690,
+    gender: 'm',
+    score: 39
+}
+{
+    name: 'Raleigh',
+    dob: '01-01-1990',
+    loves: ['apple', 'sugar'],
+    weight: 421,
+    gender: 'm',
+    score: 2
+}
+{
+    name: 'Leia',
+    dob: '01-01-1990',
+    loves: ['apple', 'watermelon'],
+    weight: 601,
+    gender: 'f',
+    score: 33
+    
+}
+{
+    name: 'Pilot',
+    dob: '01-01-1990',
+    loves: ['apple', 'watermelon'],
+    weight: 650,
+    gender: 'm',
+    score: 54
+}
+{
+    name: 'Nimue',
+    dob: '01-01-1990',
+    loves: ['grape', 'carrot'],
+    weight: 540,
+    gender: 'f'
+}
+{
+    name: 'Dunx',
+    dob: '01-01-1990',
+    loves: ['grape', 'watermelon'],
+    weight: 704,
+    gender: 'm',
+    score: 165
+}
+{
+    name: 'TestUnicorn',
+    dob: '01-01-1990',
+    loves: ['grape', 'watermelon'],
+    weight: 704,
+    gender: 'm',
+    score: 165
+}
