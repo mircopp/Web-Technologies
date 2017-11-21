@@ -5,6 +5,32 @@
     <title>D3 Introduction</title>
 </head>
 <body>
+<h1>test</h1>
 
+<script type="text/javascript" src="d3.v3.js"></script>
+<script>
+
+    var dataset = [ 5, 10, 15, 20, 25 ];
+
+    var w = 500;
+    var h = 50;
+
+    var svg = d3.select("body").append("svg")
+        .attr("width", 500)
+        .attr("height", 50);
+    var circles = svg.selectAll("circle")
+        .data(dataset)
+        .enter()
+        .append("circle");
+
+    circles.attr("cx", function(d, i) {
+        return (i * 50) + 25;
+    })
+        .attr("cy", h/2)
+        .attr("r", function(d) {
+            return d;
+        });
+
+</script>
 </body>
 </html>
