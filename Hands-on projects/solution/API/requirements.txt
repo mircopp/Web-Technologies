@@ -1,0 +1,9 @@
+pymongo
+flask
+flask-cors
+pyjwt
+requests
+flask-oauthlib
+python-dotenv
+python-jose
+six
